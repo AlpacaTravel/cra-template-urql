@@ -1,6 +1,6 @@
 {
   "name": "@alpaca-travel/cra-template-urql",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "repository": "https://github.com/AlpacaTravel/cra-template-urql.git",
   "author": "Cam Manderson <cam@alpaca.travel>",
   "license": "MIT",
