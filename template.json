@@ -1,0 +1,9 @@
+{
+  "package": {
+    "dependencies": {
+      "graphql": "^15.3.0",
+      "urql": "^1.9.8"
+    },
+    "scripts": {}
+  }
+}

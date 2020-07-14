@@ -1,2 +1,3 @@
-# cra-template-urql
-A Create React Application template quickstart for connecting React with URQL to Alpaca Travel API
+# cra-template-apollo-boost
+
+A create react template for quickly setting up a CRA with Apollo Boost and Alpaca Travel API
